@@ -48,4 +48,4 @@ class Solution {
                       return root;       
 
     }
-} https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+} //https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
