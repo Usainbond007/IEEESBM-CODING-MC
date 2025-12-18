@@ -1,5 +1,5 @@
-/*
-// Definition for a Node.
+import java.util.Queue;
+import java.util.LinkedList;
 class Node {
     public int val;
     public Node left;
@@ -19,12 +19,11 @@ class Node {
         next = _next;
     }
 };
-*/
+
 
 class Solution {
     public Node connect(Node root) 
     {
-        //simple bfs approach
         if(root==null)
         return null;
 
